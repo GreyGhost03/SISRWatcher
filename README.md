@@ -4,6 +4,8 @@
 
 A small Windows tray app that starts and stops [SISR](#about-sisr) automatically when your games run.
 
+**Download:** get the latest version from the [Releases page](https://github.com/GreyGhost03/SISRWatcher/releases/latest).
+
 ## Why
 
 SISR watcher is built to keep couch gaming on a PC smooth when you play Xbox PC games with a Steam Controller.
