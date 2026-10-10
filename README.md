@@ -30,7 +30,7 @@ quit, and you're back in Big Picture.
 
 ## About SISR
 
-SISR is a separate project and is **not included** with this app. Download and set it up from its own project
+[SISR](https://github.com/Alia5/SISR) is a separate project and is **not included** with this app. Download and set it up from its own project
 page, then point SISR watcher at `SISR.exe`.
 
 ## Requirements
@@ -38,7 +38,7 @@ page, then point SISR watcher at `SISR.exe`.
 - Windows 10 or 11 (64-bit)
 - [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) or newer to run
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or newer to build from source
-- SISR
+- [SISR](https://github.com/Alia5/SISR)
 
 ## Build from source
 
